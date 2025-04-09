@@ -18,8 +18,8 @@ function App() {
       <Product
        image={imageMain} 
        title="Canivete Multiusos Texwol: A Versatilidade num Objecto Compacto" 
-       desc1="Este canivete multiusos é um exemplo clássico da engenhosidade suíça. Com o seu característico cabo vermelho e múltiplas ferramentas em aço inoxidável, representa mais do que um simples instrumento de corte - é um verdadeiro companheiro para aventureiros, campistas e entusiastas do outdoor."
-       desc2="As suas diversas funcionalidades, que incluem lâminas de diferentes tamanhos, tesouras, saca-rolhas e destorniladores, tornam-no numa ferramenta extremamente útil para inúmeras situações. Desde abrir uma garrafa de vinho durante um piquenique até reparar um equipamento durante uma caminhada, este canivete resolve praticamente tudo."
+       desc1="Este canivete multiusos é um exemplo clássico da engenharia Suíça. Com o seu característico cabo vermelho e múltiplas ferramentas em aço inoxidável, representa mais do que um simples instrumento de corte - é um verdadeiro companheiro para campistas e entusiastas do outdoor."
+       desc2="As suas diversas funcionalidades, que incluem lâminas de diferentes tamanhos, tesouras, saca-rolhas e alicates, tornam-no numa ferramenta extremamente útil para inúmeras situações. Desde abrir uma garrafa de vinho durante um piquenique até reparar um equipamento durante uma caminhada, este canivete resolve praticamente tudo."
        link="https://generalcatalogue2025.eu/deliver2yougift/#page/846"/>
       <ProductsList 
         data={[
